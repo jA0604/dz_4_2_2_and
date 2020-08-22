@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">dz_4_2_2_and</string>
+    <string name="name_dz">Перехват событий на элементах</string>
+
+    <string name="title_dz_1_1_1">Первый Android проект</string>
+    <string name="title_dz_1_1_2">Собственный Hello world</string>
+    <string name="title_dz_1_2_1">Универсальная форма ввода</string>
+    <string name="title_dz_1_2_2">Бесконечный переход между экранами</string>
+    <string name="title_dz_1_3_1">Система мониторинга здоровья</string>
+    <string name="title_dz_2_1_1">Взаимоисключающие CheckBox</string>
+    <string name="title_dz_2_1_2">Spinner «Страны-города-улицы»</string>
+    <string name="title_dz_2_1_3">CalendarView «Сроки задачи»</string>
+    <string name="title_dz_2_2_1">Записная книжка в SharedPreferences</string>
+    <string name="title_dz_2_2_2">AppBar приложения</string>
+    <string name="title_dz_3_1_1">Интерфейс калькулятора</string>
+    <string name="title_dz_3_1_2">Действия калькулятора</string>
+    <string name="title_dz_3_2_1">Цепочка текста</string>
+    <string name="title_dz_3_2_2">Инженерный вид калькулятора</string>
+    <string name="title_dz_3_3_1">Адаптивная горизонтально-вертикальная верстка</string>
+    <string name="title_dz_3_3_2">Страница переключения языка</string>
+    <string name="title_dz_3_4_1">Переключение цветов в приложении</string>
+    <string name="title_dz_3_4_2">Переключение отступов в приложении</string>
+    <string name="title_dz_4_1_1">Отображение ListView</string>
+    <string name="title_dz_4_1_2">Взаимодействие с ListView</string>
+    <string name="title_dz_4_2_1">Список с custom элементами</string>
+    <string name="title_dz_4_2_2">Перехват событий на элементах</string>
+
+    <string name="category_dz_1_1">«Введение в Android. Краткий обзор компонентов»</string>
+    <string name="category_dz_1_2">«Приложение “Hello world”»</string>
+    <string name="category_dz_1_3">«Проектирование интерфейсов»</string>
+    <string name="category_dz_2_1">«Компоненты View. Иерархия Views»</string>
+    <string name="category_dz_2_2">«Компоненты ViewGroup. SharedPrefs»</string>
+    <string name="category_dz_3_1">«Верстка графического интерфейса в Android»</string>
+    <string name="category_dz_3_2">«Другие Виды Layouts»</string>
+    <string name="category_dz_3_3">App resources, Config qualifier</string>
+    <string name="category_dz_3_4">«Android styles»</string>
+    <string name="category_dz_4_1">"Базовые списки"</string>
+    <string name="category_dz_4_2">"Работа с конфигурируемым интерфейсом на примере списков. Классы Adapter, AdapterView"</string>
+
+    <string name="btn_txt">Удалить</string>
+</resources>
